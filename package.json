@@ -1,0 +1,13 @@
+{
+  "name": "loto-predictor",
+  "version": "1.0.0",
+  "description": "Predicts loto numbers using statistics",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "vite": "^4.0.0"
+  },
+  "devDependencies": {}
+}
